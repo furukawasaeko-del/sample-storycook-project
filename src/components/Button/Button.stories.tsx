@@ -121,10 +121,10 @@ export const Danger: Story = {
 export const Sizes: Story = {
   render: (args) => (
     <div style={{ display: 'flex', gap: 12, alignItems: 'center' }}>
-      <Button {...args} size="xs">XS</Button>
-      <Button {...args} size="sm">SM</Button>
-      <Button {...args} size="md">MD</Button>
-      <Button {...args} size="lg">LG</Button>
+      <Button {...args} size="xs">X</Button>
+      <Button {...args} size="sm">S</Button>
+      <Button {...args} size="md">M</Button>
+      <Button {...args} size="lg">L</Button>
     </div>
   ),
 };

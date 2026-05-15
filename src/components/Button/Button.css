@@ -78,7 +78,7 @@
   height: 48px;
   min-width: 48px;
   padding: 0 24px;
-  font-size: 18px;
+  font-size: 20px;
   gap: 4px;
 }
 .btn--lg .btn__icon { width: 20px; height: 20px; }
@@ -90,7 +90,7 @@
 
 /* primary = Figma "green"/Blue 1 */
 .btn--primary {
-  background-color: #2F80ED;
+  background-color: #27AE60;
   color: #ffffff;
 }
 .btn--primary:hover:not(:disabled) {
